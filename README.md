@@ -3,7 +3,7 @@
 > “A leap of faith” is how many great journeys begin — mine led me to data.
 
 <div align="center">
-  <img src="spider.gif" alt="Leap of Faith" width="90%" style="max-width:1200px;"/>
+  <img src="spidey.gif" alt="Leap of Faith" width="90%" style="max-width:1200px;"/>
 </div>
 
 I’m a **Data Engineer & Analyst** with 3+ years driving real‑time ELT pipelines, cloud data platforms, and AI/ML‑powered analytics. I build systems that turn complex data into clear business impact.
