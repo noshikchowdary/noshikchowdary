@@ -1,12 +1,28 @@
-# Noshikchowdary Chirumamilla
+<table>
+  <tr>
+    <td width="50%" valign="middle">
 
-<p align="center">
-  <img src="spidey.gif" width="500" alt="Leap of Faith"/>
-</p>
+# Noshikchowdary Chirumamilla
 
 > “A leap of faith” is how many great journeys begin — mine led me to data.
 
-I’m a **Data Engineer and Analyst** with 3+ years of experience building scalable, cloud-native data systems. I specialize in turning raw information into insights and automation — whether through robust pipelines, clean data models, or interactive dashboards. With an eye on AI/ML and a strong foundation in software engineering, I bridge data and impact with elegance.
+I’m a **Data Engineer & Analyst** with 3+ years of experience building cloud‑native data systems, ETL pipelines, and analytics solutions. My passion lies at the intersection of **AI/ML**, **software engineering**, and **BI**, where I turn raw data into actionable insights.
+
+    </td>
+    <td width="50%" align="center">
+
+<p>
+  <img src="spider.gif" width="360" alt="Leap of Faith"/>
+</p>
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔧 Tech Stack
+…
 
 ---
 
