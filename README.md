@@ -12,7 +12,7 @@ Iâ€™m a **Data Engineer & Analyst** with 3+ years of experience building cloudâ€
     <td width="50%" align="center">
 
 <p>
-  <img src="spider.gif" width="360" alt="Leap of Faith"/>
+  <img src="spidey.gif" width="360" alt="Leap of Faith"/>
 </p>
 
     </td>
