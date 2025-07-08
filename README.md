@@ -6,7 +6,7 @@
   <img src="spidey.gif" alt="Leap of Faith" width="90%" style="max-width:1200px;"/>
 </div>
 
-I’m a **Data Engineer & Analyst** with 3+ years driving real‑time ELT pipelines, cloud data platforms, and AI/ML‑powered analytics. I build systems that turn complex data into clear business impact.
+I’m a Data Engineer & Analyst with over 3 years of hands on experience in designing and implementing cloud-native ETL/ELT pipelines, data models, and interactive analytics. I bridge the gap between raw data and actionable insights, leveraging AI/ML and software engineering best practices to drive business impact.
 
 
 
