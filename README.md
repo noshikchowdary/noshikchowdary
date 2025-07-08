@@ -1,7 +1,7 @@
 # Noshikchowdary Chirumamilla
 
 <p align="center">
-  <img src="spider.gif" width="500" alt="Leap of Faith"/>
+  <img src="spidey.gif" width="500" alt="Leap of Faith"/>
 </p>
 
 > “A leap of faith” is how many great journeys begin — mine led me to data.
