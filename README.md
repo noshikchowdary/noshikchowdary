@@ -1,6 +1,6 @@
 # Noshikchowdary Chirumamilla
 
-> “A leap of faith” is how many great journeys begin — mine led me to data.
+> “A leap of faith” is how many great journeys begin — mine led me to the world of code. 
 
 <div align="center">
   <img src="spidey.gif" alt="Leap of Faith" width="80%" style="max-width:1200px;"/>
