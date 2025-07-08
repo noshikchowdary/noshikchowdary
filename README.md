@@ -16,9 +16,6 @@ I’m a Data Engineer & Analyst with over 3 years of hands on experience in desi
 
 - 🌱 I’m currently learning **Generative AI workflows using LangChain and vector databases like Pinecone.**
 
-- 📝 I write Blogs on [https://medium.com/@cnoshik](https://medium.com/@cnoshik)
-
-- 📄 Know about my experiences [https://noshik.vercel.app/](https://noshik.vercel.app/)
 
 
 <h3 align="left">Languages and Tools:</h3>
