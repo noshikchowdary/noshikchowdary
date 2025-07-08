@@ -1,4 +1,4 @@
-# Noshikchowdary Chirumamilla
+<div align="center">Noshikchowdary Chirumamilla
 
 > “A leap of faith” is how many great journeys begin — mine led me to the world of code. 
 
