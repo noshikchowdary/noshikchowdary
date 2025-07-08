@@ -1,6 +1,6 @@
 <div align="center">Noshikchowdary Chirumamilla
 
-> “A leap of faith” is how many great journeys begin — mine led me to the world of code. 
+> “A leap of faith” is how many great journeys begin — mine led me to the world of tech. 
 
 <div align="center">
   <img src="spidey.gif" alt="Leap of Faith" width="90%" style="max-width:1200px;"/>
