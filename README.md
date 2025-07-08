@@ -1,23 +1,20 @@
-<table>
-  <tr>
-    <td width="50%" valign="middle">
+<!-- Float the GIF on the right at ~40% width -->
+<img src="spidey.gif" alt="Leap of Faith" width="40%" align="right" style="margin-left: 20px;"/>
 
 # Noshikchowdary Chirumamilla
 
 > “A leap of faith” is how many great journeys begin — mine led me to data.
 
-I’m a **Data Engineer & Analyst** with 3+ years of experience building cloud‑native data systems, ETL pipelines, and analytics solutions. My passion lies at the intersection of **AI/ML**, **software engineering**, and **BI**, where I turn raw data into actionable insights.
+I’m a **Data Engineer & Analyst** with 3+ years transforming raw data into scalable, cloud‑native pipelines and actionable insights. I specialize in:
 
-    </td>
-    <td width="50%" align="center">
+- **Real‑time ELT** (AWS Glue, Airflow, dbt)  
+- **Data modeling & BI** (Snowflake, Databricks, Tableau, Power BI)  
+- **AI/ML pipelines** (Lambda, MLflow, Streamlit)  
 
-<p>
-  <img src="spidey.gif" width="360" alt="Leap of Faith"/>
-</p>
+At the intersection of software engineering and analytics, I build reliable systems that empower teams and drive business impact
 
-    </td>
-  </tr>
-</table>
+
+
 
 ---
 
