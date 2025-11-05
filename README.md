@@ -2,9 +2,7 @@
 
 > “A leap of faith” is how many great journeys begin — mine led me to the world of tech. 
 
-<div align="center">
-  <img src="spidey.gif" alt="Leap of Faith" width="90%" style="max-width:1200px;"/>
-</div>
+
 
 I’m a Data Engineer & Analyst with over 4 years of hands on experience in designing and implementing cloud-native ETL/ELT pipelines, data models, and interactive analytics. I bridge the gap between raw data and actionable insights, leveraging AI/ML and software engineering best practices to drive business impact.
 
