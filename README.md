@@ -10,9 +10,6 @@ I’m a Data Engineer & Analyst with over 4 years of hands on experience in desi
 
 ---
 
-- 🔭 I’m currently working on **Prototyping an AI-powered personal analytics tool that visualizes trends and classifies behavior using scikit-learn, Plotly, and Streamlit.**
-
-- 🌱 I’m currently learning **Generative AI workflows using LangChain and vector databases like Pinecone.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
